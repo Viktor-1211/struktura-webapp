@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/struktura-webapp/static/css/main.c5f537d2.css",
+    "main.js": "/struktura-webapp/static/js/main.708f6b54.js",
+    "index.html": "/struktura-webapp/index.html",
+    "main.c5f537d2.css.map": "/struktura-webapp/static/css/main.c5f537d2.css.map",
+    "main.708f6b54.js.map": "/struktura-webapp/static/js/main.708f6b54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f537d2.css",
+    "static/js/main.708f6b54.js"
+  ]
+}
